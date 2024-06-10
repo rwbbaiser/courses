@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(221, 212, 212);
+}
+
+img {
+    width: 300px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
